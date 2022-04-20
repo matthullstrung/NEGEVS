@@ -53,9 +53,9 @@ MonoBehaviour:
   jumpForce: 8
   gravity: 18
   lockCursor: 1
-  mouseSensitivity: 11
+  mouseSensitivity: 2.5
   pitchMinMax: {x: -40, y: 85}
-  rotationSmoothTime: 0.1
+  rotationSmoothTime: 0
   yaw: 5.187398
   pitch: 0.5499961
 --- !u!143 &1535381019623673733
